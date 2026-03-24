@@ -6,7 +6,7 @@
 
 A visually rich, single-page fan tribute to **AB de Villiers**, one of cricket's greatest ever batsmen. Built with HTML, CSS, and Bootstrap 5 — no frameworks or build tools required.
 
-🌐 **Live Site:** [yourusername.github.io/your-repo-name](https://yourusername.github.io/your-repo-name)
+🌐 Live Site: https://yashu173917.github.io/AB_DE_VILLIERS/
 
 ---
 
